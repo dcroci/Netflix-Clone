@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: black;
+}
+.logo{
+    width: 150px;
+    height: 100px;
+}
+.title{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    font-size: 64px;
+    margin-bottom: 48px;
+}
+.pics{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 48px;
+}
+.name{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    font-size: 32px;
+    margin-top: 16px;
+}
